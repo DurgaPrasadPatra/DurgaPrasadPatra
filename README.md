@@ -199,7 +199,7 @@ Includes
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DurgaPrasadPatra&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -209,7 +209,7 @@ Includes
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DurgaPrasadPatra&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -227,7 +227,7 @@ Includes
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR_LINKEDIN
+https://linkedin.com/in/durgatech555
 
 </p>
 
@@ -243,7 +243,7 @@ YOUR_EMAIL
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=DurgaPrasadPatra&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
