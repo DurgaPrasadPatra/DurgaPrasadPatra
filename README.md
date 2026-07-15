@@ -54,7 +54,7 @@ My current focus is building production-ready DevOps solutions using Infrastruct
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,jenkins,githubactions,ansible"/>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,mysql,vscode,nginx,grafana,argocd"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,mysql,vscode,nginx,grafana,argo-cd"/>
 
 </p>
 
