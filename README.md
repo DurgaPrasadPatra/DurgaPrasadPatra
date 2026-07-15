@@ -95,7 +95,7 @@ My current focus is building production-ready DevOps solutions using Infrastruct
 
 ---
 
-# Currently Learning
+<!--# Currently Learning
 
 - Terraform Modules
 - Remote State Management
@@ -107,7 +107,7 @@ My current focus is building production-ready DevOps solutions using Infrastruct
 - Jenkins Shared Libraries
 
 ---
-
+-->
 # Featured Projects
 
 ## AWS Terraform Infrastructure
